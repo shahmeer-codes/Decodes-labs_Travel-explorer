@@ -1,12 +1,12 @@
-#  Travel Explorer
+# 🌍 Travel Explorer
 
 A modern, responsive travel website built using HTML, CSS, and JavaScript. Travel Explorer helps users discover popular destinations around the world through a clean and user-friendly interface.
 
-## Project Overview
+## 📖 Project Overview
 
 Travel Explorer is a multi-page travel website designed to provide information about famous travel destinations. The website focuses on responsive design, intuitive navigation, and an engaging user experience across all devices.
 
-## Features
+## ✨ Features
 
 * Responsive design for mobile, tablet, and desktop devices
 * Modern and professional user interface
@@ -18,7 +18,7 @@ Travel Explorer is a multi-page travel website designed to provide information a
 * Mobile-friendly hamburger menu
 * Smooth and clean user experience
 
-##  Technologies Used
+## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
@@ -47,7 +47,7 @@ travel-explorer/
     └── about.jpg
 ```
 
-##  Destinations Included
+## 🌎 Destinations Included
 
 ### Paris, France
 
@@ -67,7 +67,7 @@ travel-explorer/
 * Senso-ji Temple
 * Shibuya Crossing
 
-##  Responsive Design
+## 📱 Responsive Design
 
 The website is fully responsive and optimized for:
 
@@ -76,7 +76,7 @@ The website is fully responsive and optimized for:
 * Laptops
 * Desktop Screens
 
-##  Getting Started
+## 🚀 Getting Started
 
 1. Clone the repository:
 
@@ -94,7 +94,7 @@ cd travel-explorer
 
 No additional installations or dependencies are required.
 
-##  Learning Objectives
+## 🎯 Learning Objectives
 
 This project demonstrates:
 
@@ -105,12 +105,12 @@ This project demonstrates:
 * Multi-page website development
 * Frontend development fundamentals
 
-## Author
+## 👨‍💻 Author
 
 **Shahmeer Arshad**
 
 Aspiring Full-Stack Developer passionate about creating responsive and user-friendly web applications.
 
-##  License
+## 📄 License
 
 This project is created for educational and portfolio purposes.
